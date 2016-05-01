@@ -1,7 +1,7 @@
-name: RichAppz
+name: Rich Appz
 favicon: null
 layout_spectrum: 0.21425535692833364
-typography_spectrum: 0.9249768678564578
+typography_spectrum: 0.39898
 title: Creativity from an Intuitive Mind
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#A2E3C4'
   brandStrength: 0.31373415258713067
   lightness: 0.6387561373412609
-  saturation: 0.715794829884544
+  saturation: 0.5
   rhythmicContrast: 0.8657227184157819
 purpose: []
